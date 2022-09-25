@@ -9,10 +9,13 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
 
 ## Results
 1.  Data preprocessing
-  Data frame was created from data source, then preprocessed by removing null values, selecting certain columns, and standardizing the data. 532 mined and being traded cryptocurrencies were retrieved.
+
+    Data frame was created from data source, then preprocessed by removing null values, selecting certain columns, and standardizing the data. 
+    532 mined and being traded cryptocurrencies were retrieved.
 
 2.  PCA 
-  The data dimension was reduced to three pricipal components.
+   
+    The data dimension was reduced to three pricipal components.
 
 3.  Elbow Curve
 
@@ -36,6 +39,5 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
   - Scatter plot of TotalCoinSupply vs TotalCoinsMined
   
     ![Plot_df](https://user-images.githubusercontent.com/105877888/192126740-9de323c3-a3a4-4ffd-a9cb-46f52cd20c65.png)
-
  
 ## Summary
