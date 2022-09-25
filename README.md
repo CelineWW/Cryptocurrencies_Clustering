@@ -8,7 +8,7 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
 - Visualize the results with scatter plots and an interactive table.
 
 ## Results
-1.  Data preprocessing
+1.  Data preparation
 
     Data frame was created from data source, then preprocessed by removing null values, selecting certain columns, and standardizing the data. 
     532 mined and being traded cryptocurrencies were retrieved.
@@ -41,3 +41,6 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
     ![Plot_df](https://user-images.githubusercontent.com/105877888/192126740-9de323c3-a3a4-4ffd-a9cb-46f52cd20c65.png)
  
 ## Summary
+  - Compare to original data, only half of croyptocurrencies are tradable. These croyptocurrencies can be goruped into four clustered with unsupervised machine learning model. It is easy to check which coins belong to the same clusters.
+  - Knowing the coin clusters, croyptocurrencies in the same cluster can be analyzed with supervised machince learning models and make predictions to see which coins are worth to make investment.
+  - Take account of risk, advisory service team may suggest clients to purchase croyptocurrencies from different groups, even completely opposite groups to make a better balance. So that even if the clients lost on one group, they will gain from another group.
