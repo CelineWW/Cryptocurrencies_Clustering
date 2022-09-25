@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Overview
-Cryptocurrencies investment might get a great return, also might be a huge lost. cryptocurrencies analysis can help us distinguish which cryptocurrency worth to invest. Upsupervised machine learning is an appropriate way to discovery.
+Cryptocurrencies investment might get a great return, also might be a huge lost. cryptocurrencies analysis can help us grasp the overall situation of cryptocurrencies. Upsupervised machine learning is an appropriate way to group the cryptocurrencies and visualize the results.
 - Preprocessing tha Data for further analysis.
 - Using PCA to reduce data dimensions.
 - Using elbow curve to determine k value for KMeanss.
