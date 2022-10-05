@@ -5,7 +5,7 @@
 Cryptocurrencies investment might get a great return, also might be a huge lost. Cryptocurrencies analysis can help us grasp the overall situation of cryptocurrencies. Upsupervised machine learning is an appropriate way to group the cryptocurrencies and visualize the results.
 - Preprocessing tha Data for further analysis.
 - Using PCA to reduce data dimensions.
-- Using elbow curve to determine k value for KMeanss.
+- Using elbow curve to determine k value for KMeans.
 - Visualize the results with scatter plots and an interactive table.
 
 ## Results
