@@ -39,7 +39,7 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
 
   - Scatter plot of TotalCoinSupply vs TotalCoinsMined
   
-    ![Plot_df](https://user-images.githubusercontent.com/105877888/192126740-9de323c3-a3a4-4ffd-a9cb-46f52cd20c65.png)
+    ![Scatter plot](https://user-images.githubusercontent.com/105877888/194374840-30d6062e-add3-4b29-9a72-257ab1ad625e.png)
  
 ## Summary
   - Compare to original data, only half of cryptocurrencies are tradable. These cryptocurrencies can be goruped into four clustered with unsupervised machine learning model. It is easy to check which coins belong to the same clusters.
