@@ -1,4 +1,4 @@
-,CoinName,Algorithm,IsTrading,ProofType,TotalCoinsMined,TotalCoinSupply
+CoinName,Algorithm,IsTrading,ProofType,TotalCoinsMined,TotalCoinSupply
 42,42 Coin,Scrypt,True,PoW/PoS,41.99995383,42
 365,365Coin,X11,True,PoW/PoS,,2300000000
 404,404Coin,Scrypt,True,PoW/PoS,1055184902.04,532000000

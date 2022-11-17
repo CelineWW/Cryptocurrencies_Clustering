@@ -45,3 +45,4 @@ Cryptocurrencies investment might get a great return, also might be a huge lost.
   - Compare to original data, only half of cryptocurrencies are tradable. These cryptocurrencies can be goruped into four clustered with unsupervised machine learning model. It is easy to check which coins belong to the same clusters.
   - Knowing the coin clusters, cryptocurrencies in the same cluster can be analyzed with supervised machince learning models and make predictions to see which coins are worth to make investment.
   - Take into account of risk, advisory service team may suggest clients to purchase cryptocurrencies from different groups, or completely opposite groups to make a better balance. So that even if the clients lost or got no intrest from one group, they will probably gain from another group.
+
